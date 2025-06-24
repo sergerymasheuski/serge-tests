@@ -5,6 +5,7 @@ Fourth line
 
 adding some feature1 text
 adding some feature1 text2
+adding some feature1 text3
 
 erhgkjerh
 gerkgjh
